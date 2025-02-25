@@ -1,0 +1,7 @@
+
+[submodule "node_react_client_base"]
+	path = client
+	url = https://github.com/steadfastengineering/node_react_client_base
+[submodule "node_react_server_base"]
+	path = server
+	url = https://github.com/steadfastengineering/node_react_server_base
