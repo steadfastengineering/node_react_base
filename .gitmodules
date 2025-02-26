@@ -2,6 +2,8 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/steadfastengineering/node_react_client_base
+	branch = main
 [submodule "server"]
 	path = server
 	url = https://github.com/steadfastengineering/node_react_server_base
+	branch = main 
